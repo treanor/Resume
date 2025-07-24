@@ -11,33 +11,17 @@ Automation Engineer with 15+ years of experience designing and delivering large-
 
 ## Skills & Technologies
 
-**DevOps & Automation Tools:**  
-Ansible, GitHub Actions, SCCM, PowerShell Deployment Toolkit, Flexera, Azure Logic Apps, SCCM Orchestrator
-
-**Cloud & Containerization:**  
-Azure, Kubernetes, Rancher, Docker, Azure Logic Apps, OpenAI (Azure OpenAI), Vertex AI Gemini, Claude
-
-**Programming Languages:**  
-Python, C#, PowerShell, Bash
-
-**Infrastructure as Code (IaC):**  
-Terraform, Ansible
-
-**CI/CD Practices:**  
-GitHub Actions, CI/CD pipelines, automated testing, deployment automation
-
-**Enterprise Platforms & Software:**  
-Teamcenter, SolidWorks, Office 365, Adobe, Autodesk, PTC, Ansys, Abaqus, OpenLM, Oracle
-
-**Other Key Skills:**  
-Process Automation, Workflow Optimization, Stakeholder Communication, Incident Response, Mentoring & Training, License Management, Cross-functional Collaboration, ITIL, Project Management
+**Automation & DevOps:** Ansible, GitHub Actions, SCCM, PowerShell Deployment Toolkit, Flexera, Azure Logic Apps, SCCM Orchestrator, CI/CD pipelines, automated testing, deployment automation  
+**Cloud & Containerization:** Azure, Kubernetes, Rancher, Docker, OpenAI (Azure OpenAI), Vertex AI Gemini, Claude  
+**Programming:** Python, C#, PowerShell, Bash  
+**Infrastructure as Code:** Terraform, Ansible  
+**Other:** Process Automation, Workflow Optimization, Stakeholder Communication, Incident Response, Mentoring & Training, License Management, Cross-functional Collaboration, ITIL, Project Management
 
 ---
 
 ## Professional Experience
 
-### National Oilwell Varco — Bartlesville, OK
-*May 2006 – Present*
+### National Oilwell Varco — Bartlesville, OK  (May 2006 – Present)
 
 **IT Automation Engineer** (May 2019 – Present)
 - **Developed “Isaac” Automation Platform:** Designed and implemented a scalable, event-driven automation platform on Azure Logic Apps (“Isaac”), processing 5,000+ monthly IT requests (mailboxes, file shares, DNS, licensing, Okta, incident response), replacing legacy SCCM Orchestrator and delivering $400K+ annual savings at ~$40/month runtime.
@@ -65,10 +49,3 @@ Process Automation, Workflow Optimization, Stakeholder Communication, Incident R
 
 **Logistics Specialist** — United States Army  
 Coordinated supply chain and inventory for deployed units; demonstrated attention to detail, reliability, and teamwork in high-stakes military operations.
-
----
-
-## Education
-
-High School Diploma
-

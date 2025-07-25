@@ -1,5 +1,5 @@
 # James Treanor
-Bartlesville, OK • scyros2000@gmail.com • 361-549-5925 • [LinkedIn](https://www.linkedin.com/in/james-treanor-09b8139/)
+Bartlesville, OK • scyros2000@gmail.com • 361-549-5925 • [LinkedIn](https://www.linkedin.com/in/james-treanor-09b8139/) • [GitHub](https://github.com/treanor)
 
 ---
 
